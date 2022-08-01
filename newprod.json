@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "prod_name": "Electronic items",
+    "pimg1": "./web-img/tv/tv1.jpg",
+    "pimg2": "./web-img/tv/tv2.jpg",
+    "pimg3": "./web-img/tv/tv3.jpg",
+    "pimg4": "./web-img/tv/tv4.jpg",
+    "price": "25000-30000",
+    "decs": "All types of tvs are availasbel here",
+    "parant_id": 0
+  },
+  {
+    "id": 2,
+    "prod_name": "Home-appliances",
+    "pimg1": "./web-img/jucier/js1.jpg",
+    "pimg2": "./web-img/jucier/js2.jpg",
+    "pimg3": "./web-img/jucier/js3.jpg",
+    "pimg4": "./web-img/jucier/js4.jpg",
+    "price": "40000-50000",
+    "decs": "",
+    "parant_id": 0
+  },
+  {
+    "id": 3,
+    "prod_name": "Audio-video",
+    "pimg1": "./web-img/headphone/headphone1.jpg",
+    "pimg2": "./web-img/headphone/headphone2.jpg",
+    "pimg3": "./web-img/headphone/headphone3.jpg",
+    "pimg4": "./web-img/headphone/headphone4.jpg",
+    "price": "1000-2000",
+    "decs": "",
+    "parant_id": 0
+  },
+  {
+    "id": 4,
+    "prod_name": "Mobile",
+    "pimg1": "./web-img/mobile/mobile1.jpg",
+    "pimg2": "./web-img/mobile/mobile2.jpg",
+    "pimg3": "./web-img/mobile/mobile3.png",
+    "pimg4": "./web-img/mobile/mobile4.jpg",
+    "price": "20000-25000",
+    "decs": "",
+    "parant_id": 1
+  },
+  {
+    "id": 5,
+    "prod_name": "laptop",
+    "pimg1": "./web-img/laptop/laptop1.jpg",
+    "pimg2": "./web-img/laptop/laptop2.jpg",
+    "pimg3": "./web-img/laptop/laptop3.jpg",
+    "pimg4": "./web-img/laptop/laptop4.jpg",
+    "price": "45000-50000",
+    "decs": "",
+    "parant_id": 1
+  },
+  {
+    "id": 6,
+    "prod_name": "Tablets",
+    "pimg1": "./web-img/tablet/tablet1.jpg",
+    "pimg2": "./web-img/tablet/tablet2.jpg",
+    "pimg3": "./web-img/tablet/tablet3.jpg",
+    "pimg4": "./web-img/tablet/tablet4.jpg",
+    "price": "35000-40000",
+    "decs": "",
+    "parant_id": 1
+  },
+  {
+    "id": 7,
+    "prod_name": "washing machine",
+    "pimg1": "./web-img/washing/wm1.jpg",
+    "pimg2": "./web-img/washing/wm2.jpg",
+    "pimg3": "./web-img/washing/wm3.jpg",
+    "pimg4": "./web-img/washing/wm4.jpg",
+    "price": "30000-35000",
+    "decs": "",
+    "parant_id": 2
+  },
+  {
+    "id": 8,
+    "prod_name": "Water Purifier",
+    "pimg1": "./web-img/wp/wp1.jpg",
+    "pimg2": "./web-img/wp/wp2.jpg",
+    "pimg3": "./web-img/wp/wp3.jpg",
+    "pimg4": "./web-img/wp/wp4.jpg",
+    "price": "30000-35000",
+    "decs": "",
+    "parant_id": 2
+  },
+  {
+    "id": 9,
+    "prod_name": "Microwave-oven",
+    "pimg1": "./web-img/Microwave/microwave1.jpg",
+    "pimg2": "./web-img/Microwave/microwave2.jpg",
+    "pimg3": "./web-img/Microwave/microwave3.jpg",
+    "pimg4": "./web-img/Microwave/microwave4.jpg",
+    "price": "30000-35000",
+    "decs": "",
+    "parant_id": 2
+  },
+  {
+    "id": 10,
+    "prod_name": "speaker",
+    "pimg1": "./web-img/spicker/spk1.jpg",
+    "pimg2": "./web-img/spicker/spk2.jpg",
+    "pimg3": "./web-img/spicker/spk3.jpg",
+    "pimg4": "./web-img/spicker/spk4.jpg",
+    "price": "30000-35000",
+    "decs": "",
+    "parant_id": 3
+  },
+  {
+    "id": 11,
+    "prod_name": "Wired-earphone",
+    "pimg1": "./web-img/wired/wireearphone1.png",
+    "pimg2": "./web-img/wired/wireearphone2.jpg",
+    "pimg3": "./web-img/wired/wireearphone3.jpg",
+    "pimg4": "./web-img/wired/wireearphone4.jpg",
+    "price": "30000-35000",
+    "decs": "",
+    "parant_id": 3
+  },
+  {
+    "id": 12,
+    "prod_name": "Wireless-earphone",
+    "pimg1": "./web-img/wireless/wirelessear1.jpg",
+    "pimg2": "./web-img/wireless/wirelessear2.jpg",
+    "pimg3": "./web-img/wireless/wirelessear3.jpg",
+    "pimg4": "./web-img/wireless/wirelessear4.jpg",
+    "price": "30000-35000",
+    "decs": "",
+    "parant_id": 3
+  }
+]
